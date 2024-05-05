@@ -1,4 +1,4 @@
-# Voice Chatbot - Frontend
+# Voice Chatbot - Node.js
 
 Practical example of a usage of OpenAI to generate a conversation for a booking transport website.
 
