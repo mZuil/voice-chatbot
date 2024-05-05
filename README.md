@@ -9,3 +9,4 @@ Practical example of a usage of OpenAI to generate a conversation for a booking 
 ```
 npm run dev
 ```
+A file called .env should be included with the API key.
